@@ -54,7 +54,8 @@ This project uses these technologies:
 - Use JQuery
 
 TODO:
-Clean up the HomeController. There are some duplicated codes I could move to Util class and merge it for using. 
+Clean up the HomeController. 
+There are some duplicated codes I could move to Util class and merge it for using. 
 I should create a singleton class to keep the record from CSV. So we do not need to load it everytime
 Change the CSS file to make the layout look better.
 Add more test cases to make 100% code coverage. 
